@@ -1,3 +1,5 @@
+Boîte à outils complète pour techniciens et administrateurs système Windows. Application Electron + React + Python.
+
 # Installation & Lancement — Version Standalone (EXE)
 
 Guide pour les utilisateurs finaux souhaitant installer ou utiliser UTB sans passer par le code source.
@@ -69,6 +71,86 @@ python python\server.py
 ```
 
 ---
+## Modules disponibles
+
+### 🖥️ Système
+- Informations système (CPU, RAM, BIOS, matériel)
+- Gestion des services Windows
+- Éditeur de registre
+- Variables d'environnement
+- Gestionnaire de tâches avancé
+- Journaux d'événements
+- Maintenance & Technicien (SFC, DISM, chkdsk, BCD)
+- Nettoyage du PC (corbeille, temp, prefetch, WinSxS)
+- Dossiers partagés (NTFS/SMB)
+- Éditeur Hosts
+- Gestionnaire démarrage (Autorun)
+- Planificateur de tâches
+- Profils locaux Windows (analyse, nettoyage cache, backup, suppression)
+- **🚀 Tweaks Windows** *(v1.3.0)* — 18 tweaks : performances, vie privée, réseau, jeux, MAJ, explorateur
+- **🏢 Active Directory & GPO** — 7 onglets + filtre OU *(v1.3.0)*
+
+### 💾 Disques
+- Liste et informations disques
+- Formatage sécurisé
+- Gestion des partitions
+- Nettoyage de disque
+- Initialisation de disques
+
+### 🌐 Réseau
+- Configuration IP / WiFi / DNS
+- Tables de routage
+- Wake-on-LAN
+- Scanner de ports
+- Diagnostics réseau
+- Gestionnaire Proxy
+- Gestionnaire VPN
+
+### 🔒 Sécurité
+- Windows Defender
+- Pare-feu
+- Gestion des certificats
+- Audit sécurité Windows
+- Scanner de vulnérabilités (CVE local + Nmap)
+- Outils Pentest
+- OSINT Framework
+- **Alertes ANSSI / NVD CVE** *(NVD API v2)*
+
+### 🛠️ Outils
+- Chocolatey / Winget
+- Checksum (MD5, SHA1, SHA256, SHA512)
+- Speedtest
+- Gestionnaire de fichiers avancé
+- Imprimantes et scanners
+- Encodeur/Décodeur (Base64, URL, HTML, JWT)
+- Générateur de mots de passe
+- Formateur JSON
+- Comparateur de texte (diff)
+- Lanceur ScriptManager
+
+### 📊 Monitoring
+- CPU, RAM, Disque en temps réel
+- Trafic réseau / Bande passante
+- Activité disques
+- Logs système
+
+### 🌍 Accès distant
+- Client SSH (avec gestion clés)
+- FTP/SFTP
+- Bureau à distance
+- Gestionnaire serveurs PMAD
+- PsTools (PsExec, PsList, PsKill)
+
+### 💻 Développement
+- Docker management
+- Git tools
+- Clients BDD (MySQL, PostgreSQL, MongoDB, SQLite)
+- REST API client
+
+### 🔬 Diagnostic
+- Rapport système complet
+- Tests connectivité
+- Analyse démarrage
 
 ## Fonctionnalités nécessitant des droits élevés
 
