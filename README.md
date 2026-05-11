@@ -20,6 +20,8 @@ Deux fichiers disponibles :
 | `Ultimate ToolBox X.X.X.exe` | Portable | Lancement direct sans installation, depuis une clé USB |
 
 ---
+![Cover](https://github.com/samael14/UTB_2026_releases/blob/main/utb.png)
+![Cover](https://github.com/samael14/UTB_2026_releases/blob/main/utb1.png)
 
 ## Prérequis
 
