@@ -1,4 +1,4 @@
-Boîte à outils complète pour techniciens et administrateurs système Windows. Application Electron + React + Python.
+# Boîte à outils complète pour techniciens et administrateurs système Windows. Application Electron + React + Python.
 
 # Installation & Lancement — Version Standalone (EXE)
 
