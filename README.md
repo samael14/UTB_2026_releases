@@ -26,7 +26,7 @@ Deux fichiers disponibles :
 ## Prérequis
 
 - **Windows 10 ou 11 — 64 bits**
-- **Python 3.10+** (requis pour les fonctionnalités avancées du backend)
+- **Python 3.10+** (requis pour les fonctionnalités avancées du backend) facultatif depuis 1.4.1 mais recommandé
   - Télécharger : https://www.python.org/downloads/
   - ⚠️ Cocher **"Add Python to PATH"** lors de l'installation
 - **~500 Mo d'espace disque libre**
